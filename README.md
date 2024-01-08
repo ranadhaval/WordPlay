@@ -92,6 +92,10 @@
 
   <h2>Video</h2>
   
+
+https://github.com/ranadhaval/WordPlay/assets/76704939/ec0570e3-132c-4193-8b82-ece0b536b01d
+
+
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository: <code>git clone https://github.com/ranadhaval/WordPlay.git</code></li>
